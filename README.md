@@ -4,6 +4,8 @@ How to run code:
 You can run the code the same way you run any python program. You can use the typical "py 484_A1.py" to run the program
 or run it from your IDE, which is what I did.
 
+An accompanying report is provided that goes much more into detail about how this classifier was built.
+
 In this program, KNN was implemented from scratch to gain a better understanding of the algorithm (however, things like euclidean/cosine distance were used from libraries, did not make much sense to implement that from scratch)
 
 Highest accuracy achieved on test data: 0.81
